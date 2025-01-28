@@ -13,13 +13,13 @@
 #   url = "news/"
 #   weight = 15
 
-[[main]]
+#[[main]]
   name = "Posts"
   url = "post/"
   weight = 20
 
 [[main]]
-  name = "Talks"
+  name = "Activities"
   url = "talk/"
   weight = 30
 
@@ -28,29 +28,29 @@
 #   url = "publication/"
 #   weight = 40
 
-[[main]]
-  name = "Publications"
-  url = "featured/"
-  weight = 40
+#[[main]]
+#  name = "Publications"
+#  url = "featured/"
+#  weight = 40
 
-[[main]]
-  name = "Teaching"
-  url = "teaching/"
-  weight = 50
+#[[main]]
+#  name = "Teaching"
+#  url = "teaching/"
+#  weight = 50
 
-[[main]]
-  name = "Students"
-  url = "students/"
-  weight = 60
+#[[main]]
+#  name = "Students"
+#  url = "students/"
+#  weight = 60
 
-[[main]]
-  name = "Links"
-  url = "links/"
-  weight = 80
+#[[main]]
+#  name = "Links"
+#  url = "links/"
+#  weight = 80
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 70
+[[main]]
+    name = "CV"
+    url = "files/cv.pdf"
+    weight = 70
