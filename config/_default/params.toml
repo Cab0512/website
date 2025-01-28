@@ -88,19 +88,18 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "qyzhao@statslab.cam.ac.uk"
+email = "riffo@tu-berlin.de"
 phone = ""
 
 # Address
-# For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Centre for Mathematical Sciences, Wilberforce Road", city = "Cambridge", region = "", postcode = "CB3 0WB", country = "United Kingdom", country_code = "UK"}
+# Dirección
+address = {street = "Straße des 17. Juni 135", city = "Berlin", region = "Berlin", postcode = "10623", country = "Germany", country_code = "DE"}
 
-# Geographic coordinates
-# To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "52.210312", longitude = "0.102033"}
+# Coordenadas geográficas
+coordinates = {latitude = "52.5143", longitude = "13.2877"}
 
 # Directions for visitors to locate you.
-directions = "Pavillion D -- Room D1.01"
+directions = "MA 6-2"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -134,7 +133,7 @@ twitter = ""
 
 # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-date_format = "2006-01-02"
+date_format = "02-01-2000"
 #   Examples: "3:04 pm" or "15:04"
 time_format = "3:04 PM"
 
